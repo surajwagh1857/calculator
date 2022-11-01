@@ -13,5 +13,6 @@ public class MyCal {
 	}
 public static void main(String[] args) {
 	System.out.println("hii java testers...");
+	System.out.println("hii java testers...");
 }
 }
